@@ -1,4 +1,4 @@
-# Ayu-Safitri_STI202303752_Tugas-Modul-1
+# STI202303752_Ayu Safitri_Tugas-Modul-1
 Tugas Modul 1 - Mata Kuliah Mobile Programming 
 # TUGAS MODUL 1
 ## Mata Kuliah: Pemrograman Mobile
