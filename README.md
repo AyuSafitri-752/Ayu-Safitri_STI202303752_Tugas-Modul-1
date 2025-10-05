@@ -4,7 +4,6 @@ Tugas Modul 1 - Mata Kuliah Mobile Programming
 ## Mata Kuliah: Pemrograman Mobile
 ### Nama: Ayu Safitri  
 ### NIM: STI202303752  
-### Kelas: (isi kelas kamu di sini)
 
 ---
 
